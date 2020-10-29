@@ -1,5 +1,13 @@
 # VBA-Challenge-1
 
+# How to Run Code
+
+1. Clone repository to a folder in your machine
+
+2. Open excel workbook
+
+3. Go to Developer> Macros> and run both scripts
+
 * Created a script that will loop through all the stocks for one year for each run and take the following information.
 
   * The ticker symbol.
