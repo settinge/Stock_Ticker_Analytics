@@ -14,6 +14,6 @@
 
 # Screenshots
 
-![ScreenShot](Screenshot of Result.JPG)
+![ScreenShot](Screenshot_of_Result.JPG)
 
 Screenshot of output after running code. Shows the tickers and values associated with the greatest percent increase, greatest precent decrease, and greatest total value change over the course of a year along with their values.
